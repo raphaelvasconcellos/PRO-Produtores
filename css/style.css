@@ -1,0 +1,48 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+nav {
+    height: 100px;
+}
+
+.line-top {
+    background-color: red;
+    width: 100%;
+    height:5px;
+}
+
+
+.imagem-logo {
+    width: 140px;
+    height:70px;
+    margin-top: 10px;
+}
+
+.red-text{
+    font-size:14px;
+    font-weight: bold;
+}
+.endereco {
+    color: white;
+    text-decoration: underline;
+    font-size: 13px;
+    font-family: Karla, sans-serif;
+}
+
+.contact{
+    color: #afafaf;
+    font-size: 13px;
+    font-family: Karla, sans-serif;
+}
